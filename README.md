@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi everyone 👋
 
+**Here's what I can do:**
+- My first [Telegram bot](https://github.com/maryzaria/My-First-Telegram-Bot)
+- Study project [VK Backup](https://github.com/maryzaria/VK_Backup)
+- OOP [examples](https://github.com/maryzaria/courses/tree/main/OOP)
+- SQL (PostgreSQL, SQLite) [here](https://github.com/maryzaria/Netology/tree/main/SQL)
 <!--
 **maryzaria/maryzaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
