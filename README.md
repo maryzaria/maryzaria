@@ -1,4 +1,6 @@
-### Hi everyone 👋
+### Hello everyone <img src="https://github.com/maryzaria/some-information/blob/main/photo/Hi.gif" width="25px"> ![]()
+
+Now I'm studying to be a Python-developer at Netology
 
 **Here's what I can do:**
 - My first [Telegram bot](https://github.com/maryzaria/My-First-Telegram-Bot)
