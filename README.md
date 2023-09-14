@@ -3,6 +3,7 @@
 Now I'm studying to be a Python-developer at Netology
 
 **Here's what I can do:**
+- [Chatbot](https://github.com/maryzaria/VKinder) for dating on VK
 - My first [Telegram bot](https://github.com/maryzaria/My-First-Telegram-Bot)
 - Study project [VK Backup](https://github.com/maryzaria/VK_Backup)
 - OOP [examples](https://github.com/maryzaria/courses/tree/main/OOP)
