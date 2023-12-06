@@ -1,5 +1,4 @@
-### Hello everyone!
-<img src="https://github.com/maryzaria/some-information/blob/main/photo/Hi.gif" width="25px">
+### Hello <img src="https://github.com/maryzaria/some-information/blob/main/photo/Hi.gif" width="25px">
 
 Now I'm studying to be a Python-developer at Netology and working in Re-action.online
 
