@@ -1,6 +1,6 @@
 ### Hello <img src="https://github.com/maryzaria/some-information/blob/main/photo/Hi.gif" width="25px">
 
-Now I'm studying to be a Python-developer at Netology and working in Re-action.online
+Now I'm learning Backend Development in Pythonr at Netology and working in [Re-action.online](https://re-action.online/)
 
 **My stack:**
 Python, Django, Django REST framework, Flask, SQL, PostgreSQL, GIT (GitHub, GitLab), Docker, Docker-Compose, Linux shell, Testing and Refactoring code.
