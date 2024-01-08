@@ -2,8 +2,14 @@
 
 Now I'm studying to be a Python-developer at Netology and working in Re-action.online
 
-**Here's what I can do:**
-- [Chatbot](https://github.com/maryzaria/VKinder) for dating on VK
+**My stack:**
+Python, Django, Django REST framework, Flask, SQL, PostgreSQL, GIT (GitHub, GitLab), Docker, Docker-Compose, Linux shell, Testing and Refactoring code.
+Now I'm learning Aiohttp, Asyncio, Aiogram, Celery, Redis
+
+**My projects:**
+- Django [projects](https://github.com/maryzaria/Django-Netology)
+- Flask: REST API (backend) for an advertisement site with user authorization [here](https://github.com/maryzaria/netology_flask/tree/main/homework)
+- VK [Chatbot](https://github.com/maryzaria/VKinder)
 - My first [Telegram bot](https://github.com/maryzaria/My-First-Telegram-Bot)
 - Study project [VK Backup](https://github.com/maryzaria/VK_Backup)
 - OOP [examples](https://github.com/maryzaria/courses/tree/main/OOP)
